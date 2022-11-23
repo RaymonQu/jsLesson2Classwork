@@ -1,0 +1,12 @@
+#text{
+    font-family:comic sans ms;
+    font-size: 24pt;
+    font-size: 10vw;
+    font-weight: bold;
+    font: bold 24pt comic sans ms;
+    text-decoration: underline;
+    text-decoration-color: green;
+    text-decoration-style: wavy;
+    text-decoration: underline wavy green;
+
+}
